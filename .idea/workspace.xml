@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1037c04-6c49-4b95-ab16-c64339a0584b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/flutter_full_learn/lib/101/app_bar_learn.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_full_learn/lib/101/app_bar_learn.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_full_learn/lib/101/icon_learn.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_full_learn/lib/101/icon_learn.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_full_learn/lib/101/scafffold_learn.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_full_learn/lib/101/scafffold_learn.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_full_learn/lib/101/text_learn_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_full_learn/lib/101/text_learn_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_full_learn/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_full_learn/lib/main.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2S12ce3HwXUjuy6lKlxn39ObbUn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/yunusberdibekk/iOS & Flutter Applications/GitHub/Temelden-Zirveye-Flutter"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1037c04-6c49-4b95-ab16-c64339a0584b" name="Changes" comment="" />
+      <created>1688299847265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688299847265</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

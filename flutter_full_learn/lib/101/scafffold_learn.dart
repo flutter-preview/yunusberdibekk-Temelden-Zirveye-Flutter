@@ -8,7 +8,7 @@ class ScaffoldLearnView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Scaffold Samples"),
+        title: const Text("Scaffold Samples"),
       ),
       body: const Text('Merhaba'),
       backgroundColor: Colors.red,

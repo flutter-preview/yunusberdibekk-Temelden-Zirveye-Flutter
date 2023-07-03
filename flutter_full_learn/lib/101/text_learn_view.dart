@@ -16,17 +16,17 @@ class TextLearnView extends StatelessWidget {
               maxLines: 2,
               overflow: TextOverflow.ellipsis,
               textAlign: TextAlign.right,
-              textScaleFactor: 1.2,
+              textScaleFactor: 2.8,
               style: ProjectStyles.welcomeStyle,
             ),
             Text('Welcome $name',
                 maxLines: 2,
                 overflow: TextOverflow.ellipsis,
                 textAlign: TextAlign.right,
-                textScaleFactor: 1.2,
+                textScaleFactor: 1.4,
                 style: Theme.of(context)
                     .textTheme
-                    .headline5
+                    .headlineSmall
                     ?.copyWith(color: ProjectColors.welcomeColor)),
             Text(keys.welcome),
           ],
