@@ -16,8 +16,7 @@ class ImageLearnView extends StatelessWidget {
           ),
           Image.network(
             "https://media.vanityfair.com/photos/5cd8e0b88d58ba426c1f90db/16:9/w_1280,c_limit/mad-queen-daenerys.jpg",
-            errorBuilder: (context, error, stackTrace) =>
-                const Icon(Icons.error),
+            errorBuilder: (context, error, stackTrace) => const Icon(Icons.error),
           )
         ],
       ),
@@ -37,7 +36,7 @@ class PngImage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Image.asset(
       _pngWithPath,
-      fit: BoxFit.cover,
+      fit: BoxFit.contain,
     );
   }
 
